@@ -12,10 +12,7 @@
 The first line of the input is n (the number of vertices in the complete graph G).
 The following n lines have n integers separetd by whitespace with the cost of the edge.
 
-The last line of the output is the hamiltonian path that approximates the minimum path cost. (the 2-approximation).
-The previous lines are the edges of the MST.
-
-**Sample Input:**
+**Sample Input**
 
 ```
 4
@@ -25,7 +22,10 @@ The previous lines are the edges of the MST.
 5 8 5 0
 ```
 
-**Sample Output:**
+The last line of the output is the hamiltonian path that approximates the minimum path cost. (the 2-approximation).
+The previous lines are the edges of the MST.
+
+**Sample Output**
 
 ```
 0 2
